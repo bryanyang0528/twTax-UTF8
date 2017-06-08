@@ -1,201 +1,133 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+政府資料開放授權條款－第1版 [English]
+中華民國104年7月27日訂定
+為便利民眾共享及應用政府資料、促進及活化政府資料應用、結合民間創意提升政府資料品質及價值、優化政府服務品質，訂定本條款。
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+一、定義
 
-   1. Definitions.
+(一)資料提供機關：指將職權範圍內取得或作成之各類電子資料，透過本條款釋出予公眾之政府機關（構）、公營事業機構、公立學校及行政法人。
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+(二)使用者：指依本條款規定取得開放資料，並對其利用之自然人、法人或團體，包括依本條款授權使用者再轉授權利用之人或團體。
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+(三)開放資料：指資料提供機關擁有完整著作財產權，或經授權得再轉授權第三人利用之資料，並以公開、可修改，且無不必要技術限制之格式提供者，包括但不限於下列著作：
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+1. 編輯著作：選擇、編排具有創作性，而可受著作權法保護之資料庫或其他結構化資料組合。
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+2. 素材：指開放資料集合物中，其他可受著作權法保護之獨立著作。
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+(四)衍生物：指依本條款所提供之開放資料，進行後續重製、改作、編輯或為其他方式利用之修改物。
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+(五)資訊：指不受著作權法保護之純粹紀錄，並隨同開放資料一併提供者。前揭資訊除本條款授與權利之規定外，比照有關開放資料之規定辦理。
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+二、授與權利
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+(一)各機關所提供之開放資料，授權使用者不限目的、時間及地域、非專屬、不可撤回、免授權金進行利用，利用之方式包括重製、散布、公開傳輸、公開播送、公開口述、公開上映、公開演出、編輯、改作，包括但不限於開發各種產品或服務型態之衍生物。
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+(二)使用者得再轉授權他人為前項之利用。
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+(三)使用者依本條款規定利用開放資料，無須另行取得各資料提供機關之書面或其他方式授權。
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+(四)本條款之授權範圍不包括專利權及商標權。
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+三、課予義務
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+(一)使用者利用依本條款提供之開放資料，視為同意遵守本條款之各項規定，並應以尊重第三人著作人格權之方式利用之。
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+(二)使用者利用依本條款提供之開放資料，及後續之衍生物，應以符合附件所示「顯名聲明」要求之方式，明確標示原資料提供機關之相關聲明；未盡顯名標示義務者，視為自始未取得開放資料之授權。
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+四、版本更新及授權轉換
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+(一)本條款如有修正，依舊條款提供之開放資料，於新條款公告時，使用者得選擇採用新條款利用。但原資料提供機關，於提供開放資料時，已訂明其使用之特定版本條款者，不在此限。
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+(二)本條款與「創用CC授權 姓名標示 4.0 國際版本」相容，使用者依本條款利用開放資料，如後續以「創用CC授權 姓名標示 4.0 國際版本」規定之方式利用，視為符合本條款之規定。
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+五、停止提供
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+有下列情形之一者，各資料提供機關得停止全部或一部開放資料之提供，使用者不得向資料提供機關請求任何賠償或補償：
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+1. 因情事變更或其他正當事由，致各資料提供機關評估繼續提供該開放資料供公眾使用，已不符合公共利益之要求。
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+2. 所提供之開放資料，有侵害第三人智慧財產權、隱私權或其他法律上利益之虞。
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+六、免責聲明
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+(一)依本條款提供之開放資料，不構成任何資料提供機關申述、保證或暗示其推薦、同意、許可或核准之意思表示；各資料提供機關僅於知悉其所提供之開放資料有錯誤或遺漏時，負修正及補充之責。
 
-   END OF TERMS AND CONDITIONS
+(二)使用者利用依本條款提供之開放資料，受有損害或損失，或致第三人受有損害或損失，而遭求償者，除法令另有規定外，各資料提供機關不負任何賠償或補償之責。
 
-   APPENDIX: How to apply the Apache License to your work.
+(三)使用者利用依本條款提供之開放資料，因故意或過失，致資料提供機關遭受損害，或第三人因此向資料提供機關請求賠償損害，使用者應對各機關負賠償責任。
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "{}"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+七、準據法
 
-   Copyright {yyyy} {name of copyright owner}
+本條款之解釋、效力、履行及其他未盡事宜，以中華民國法律為準據法。
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+附件：顯名聲明
 
-       http://www.apache.org/licenses/LICENSE-2.0
+提供機關／單位 [年份] [開放資料釋出名稱與版本號]
+此開放資料依政府資料開放授權條款 (Open Government Data License) 進行公眾釋出，使用者於遵守本條款各項規定之前提下，得利用之。
+政府資料開放授權條款：http://data.gov.tw/license
+Open Government Data License, version 1.0 [中文]
+The Open Government Data License (the License) is intended to facilitate government data sharing and application among the public in outreaching and promotion method, and to advance government service efficacy and government data value and quality in collaboration with the creative private sector.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+1.	Definition
+
+1.1.	“Data Providing Organization” refers to government agency, government-owned business, public school and administrative legal entity that has various types of electronic data released to the public under the License when it is obtained or made in the scope of performance for public duties.
+
+1.2.	“User” refers to individual, legal entity or group that receives and uses Open Data under the License, including individual, legal entity or group who is receiving and using Open Data as the recipient of the former Users under the sublicensing scenario.
+
+1.3.	“Open Data” means data that the Data Providing Organization owns its copyright in whole or has full authority to provide it to third parties in sublicensing way, and provides it in an open and modifiable form such that there are no unnecessary technological obstacles to the performance of the licensed rights, including but not limited to the following creation protected by copyright:
+
+a.	“Compilation Work” means a work formed by the creative selection and arrangement of data, and can be protected by copyright law, such as database or other qualified structured data combination.
+
+b.	“Material” means a separate work, that is collected into the Open Data aggregation and can be protected by copyright law independently.
+
+1.4.	“Derivative Work” means any adaptation based upon the Open Data provided under the License and in which the original data is reproduced, adapted, compiled, or otherwise modified.
+
+1.5.	“Information” means the pure record that is not subject to copyright law and providing along with the Open Data. Accordingly, the granting of copyright license hereunder does not apply to such Information, however, other provisions of the License shall be applied to it as well as to the Open Data.
+
+2.	Grant of Copyright License
+
+2.1.	The Data Providing Organization grants User a perpetual, worldwide, non-exclusive, irrevocable, royalty-free copyright license to reproduce, distribute, publicly transmit, publicly broadcast, publicly recite, publicly present, publicly perform, compile, adapt to the Open Data provided for any purpose, including but not limited to making all kinds of Derivative Works either as products or services.
+
+2.2.	User can sublicense the copyrights which he/she is granted through 2.1. to others.
+
+2.3.	Any additional written offer or other formality for copyright license from the Data Providing Organization is not required, if User makes use of Open Data in compliance with the License.
+
+2.4.	The License does not grant any rights in the patents and trademarks.
+
+3.	Condition and Obligation
+
+3.1.	By utilizing the Open Data provided under the License, User indicates his/her acceptance of this License and all its terms and conditions overall to do so, and shall make the reasonable efforts with respect to moral right protection of the third parties involved.
+
+3.2.	When User makes use of the Open Data and its Derivative Work, he/she must make an explicit notice of statement as attribution requested in the Exhibit below by the Data Providing Organization. If User fails to comply with the attribution requirement, the rights granted under this License shall be deemed to have been void ab initio.
+
+4.	License Version and Compatibility
+
+4.1.	When a new version of the License has been updated and declared, if not the Data Providing Organization has already appointed a specific version of the License for the Open Data it provided, User may make use of the Open Data under the terms of the version of the License under which he/she originally received, or under the terms of any subsequent version published thereafter.
+
+4.2.	The License is compatible with the Creative Commons Attribution License 4.0 International. This means that when the Open Data is provided under the License, User automatically satisfies the conditions of this License when he/she makes use of the Open Data in compliance with the Creative Commons Attribution License 4.0 International thereafter.
+
+5.	Cessation of Data Providing
+
+5.1.	Under the circumstances described hereunder, the Data Providing Organization may cease to provide all or part of a specific Open Data, and User shall not claim any damages or compensations on account of that to the provider:
+
+a.	It has been evaluated by the Data Providing Organization that continuously providing of a specific Open Data as not being met the requirement of public interest due to the change of circumstances unpredictable or for a legitimate cause.
+
+b.	A provided Open Data might jeopardize third parties' intellectual property rights, privacy rights, or other interests protected at law.
+
+6.	Disclaimer
+
+6.1.	The providing of Open Data under the License shall not be construed as any statement, warranty, or implication to the recommendation, permission, approval, or sanction of all kinds of authoritative declaration of intention made by the Data Providing Organization. And the Data Providing Organization shall only be liable to make the correcting and updating when the errors or omissions of Open Data provided by it has been acknowledged.
+
+6.2.	The Data Providing Organization shall not be liable for damage or loss User encounters when he/she makes use of the Open Data provided under the License. This disclaimer applies as well when User has third parties encountered damage or loss and thus has been claimed for remedies. Unless otherwise specified according to law, the Data Providing Organization shall not be held responsible for any damages or compensations herein.
+
+6.3.	User shall be liable for the damages to the Data Providing Organization, if he/she has used the Open Data provided wrongfully due to an intentional or negligent misconduct and caused damages to the Data Providing Organization. The same reimbursement rule for wrongful misconducting shall be applied to the User when the damaged one is a third party and the compensations have already been disbursed by the Data Providing Organization to the third party due to a legal claim.
+
+7.	Governing Law
+
+7.1.	The interpretation, validity, enforcement and matters not mentioned herein for the License is governed by the Laws of Republic of China (Taiwan).
+
+Exhibit - Attribution
+
+Data Providing Organization/Agency [year] [distinguishing full name of the released Open Data and its version number]
+The Open Data is made available to the public under the Open Government Data License, User can make use of it when complying to the condition and obligation of its terms.
+Open Government Data License:http://data.gov.tw/license
